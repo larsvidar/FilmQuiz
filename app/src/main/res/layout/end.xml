@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/end"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/end_margins"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/end_logo_margin_bottom"
+        android:fontFamily="@font/berkshireswash"
+        android:text="@string/game_name"
+        android:textAlignment="center"
+        android:textColor="@color/colorAccent"
+        android:textSize="@dimen/logo_text" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/end_text_margin_bottom"
+        android:fontFamily="sans-serif-light"
+        android:text="@string/end_message"
+        android:textAlignment="center"
+        android:textColor="@color/textColorDark"
+        android:textSize="@dimen/end_text" />
+
+    <TextView
+        android:id="@+id/result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/end_result_margin_bottom"
+        android:fontFamily="sans-serif-light"
+        android:textAlignment="center"
+        android:textColor="@color/textColorDark"
+        android:textSize="@dimen/end_result_text" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/button_height"
+        android:layout_gravity="center"
+        android:onClick="restart"
+        android:text="@string/reset_button" />
+
+</LinearLayout>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">FilmQuiz</string>
+    <string name="game_name">FilmQuiz</string>
+    <string name="submit_button">Send</string>
+    <string name="welcome_message">Velkommen til</string>
+    <string name="tagline">En filmquizz med 10 spørsmål</string>
+
+    <string name="start_button">Start quizzen</string>
+    <string name="end_message">Ditt resultat: </string>
+    <string name="reset_button">Prøv på nytt</string>
+    <string name="textfield_hint">Skriv svaret ditt her!</string>
+    <string name="null_answer">Du må velge ett svar!</string>
+    <string name="wrong_answer">Beklager, det er feil!</string>
+    <string name="nothing_answer">Du svarte ingenting, hvilket er feil!</string>
+    <string name="right_answer">Helt korrekt!</string>
+    <string name="game_end">Det var siste spørsmål</string>
+
+    <string name="question1">Hvem regisserte Reservoir Dogs?</string>
+    <string name="question1_alt1">Steven Speilberg</string>
+    <string name="question1_alt2">Quentin Tarantino</string>
+    <string name="question1_alt3">Guy Ritchie</string>
+    <string name="question1_alt4">Brian Helgeland</string>
+    <string name="question1_answer">2</string>
+    <string name="question1_type">radio</string>
+
+    <string name="question2">Hvilken skuespiller har vunnet flest Oscar?</string>
+    <string name="question2_alt1">Jack Nicholson</string>
+    <string name="question2_alt2">Katharine Hepburn</string>
+    <string name="question2_alt3">Meryl Streep</string>
+    <string name="question2_alt4">Daniel Day Lewis</string>
+    <string name="question2_answer">2</string>
+    <string name="question2_type">radio</string>
+
+    <string name="question3">Hvem spilte Forrest Gump?</string>
+    <string name="question3_answer">Tom Hanks</string>
+    <string name="question3_type">text</string>
+
+    <string name="question4">I hvilket år ble Sin City utgitt?</string>
+    <string name="question4_alt1">2001</string>
+    <string name="question4_alt2">2004</string>
+    <string name="question4_alt3">2005</string>
+    <string name="question4_alt4">2008</string>
+    <string name="question4_answer">3</string>
+    <string name="question4_type">radio</string>
+
+    <string name="question5">Hva var Stanley Kubricks siste film?</string>
+    <string name="question5_alt1">Full Metal Jacket</string>
+    <string name="question5_alt2">Eyes Wide Shut</string>
+    <string name="question5_alt3">A.I.</string>
+    <string name="question5_alt4">Lolita</string>
+    <string name="question5_answer">2</string>
+    <string name="question5_type">radio</string>
+
+    <string name="question6">Hvem er hovedpersonen i Raiders Of The Lost Ark?</string>
+    <string name="question6_alt1">Indiana Jones</string>
+    <string name="question6_alt2">James Bond</string>
+    <string name="question6_alt3">Superman</string>
+    <string name="question6_alt4">Han Solo</string>
+    <string name="question6_answer">1</string>
+    <string name="question6_type">radio</string>
+
+    <string name="question7">Hvilke av disse filmene har vunnet 11 Oscar?</string>
+    <string name="question7_alt1">Titanic</string>
+    <string name="question7_alt2">La La Land</string>
+    <string name="question7_alt3">Ben Hur</string>
+    <string name="question7_alt4">The Return of the King</string>
+    <string name="question7_answer">1011</string>
+    <string name="question7_type">check</string>
+
+    <string name="question8">Ryan Reynolds har spilt to versjoner av denne superhelten</string>
+    <string name="question8_alt1">Deadpool</string>
+    <string name="question8_alt2">Green Lantern</string>
+    <string name="question8_alt3">Batman</string>
+    <string name="question8_alt4">The Human Torch</string>
+    <string name="question8_answer">1</string>
+    <string name="question8_type">radio</string>
+
+    <string name="question9">Hvem spilte James Bond i Spionen Som Elsket Meg?</string>
+    <string name="question9_alt1">Pierce Brosnan</string>
+    <string name="question9_alt2">George Lazenby</string>
+    <string name="question9_alt3">Sean Connery</string>
+    <string name="question9_alt4">Roger Moore</string>
+    <string name="question9_answer">4</string>
+    <string name="question9_type">radio</string>
+
+    <string name="question10">Hvem lagde Citizen Kane?</string>
+    <string name="question10_alt1">Stanley Kubrick</string>
+    <string name="question10_alt2">Orson Welles</string>
+    <string name="question10_alt3">Michael Curtiz</string>
+    <string name="question10_alt4">Alfred Hitchcock</string>
+    <string name="question10_answer">2</string>
+    <string name="question10_type">radio</string>
+
+    <string name="current_score">Riktige svar: <xliff:g example="6" id="score_number">%d</xliff:g></string>
+    <string name="final_result"><xliff:g id="final_score" example="6">%d</xliff:g> / <xliff:g id="number_of_questions" example="10">%d</xliff:g></string>
+</resources>

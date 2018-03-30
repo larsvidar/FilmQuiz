@@ -1,0 +1,104 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">FilmQuiz</string>
+    <string name="game_name">FilmQuiz</string>
+    <string name="current_score">Correct answers: <xliff:g id="score_number" example="6">%d</xliff:g></string>
+    <string name="submit_button">Submit</string>
+    <string name="final_result"><xliff:g id="final_score" example="6">%d</xliff:g> / <xliff:g id="number_of_questions" example="10">%d</xliff:g></string>
+
+    <!-- Start.xml -->
+    <string name="welcome_message">Welcome to</string>
+    <string name="tagline">A 10 question quiz about movies</string>
+    <string name="start_button">Start quiz</string>
+
+    <!-- End.xml -->
+    <string name="end_message">Your score is: </string>
+    <string name="reset_button">Try again</string>
+
+    <!-- Textfield.xml -->
+    <string name="textfield_hint">Write your answer here!</string>
+
+    <!-- Toasts -->
+    <string name="null_answer">You have to choose an answer!</string>
+    <string name="wrong_answer">Sorry, that\'s the wrong answer!</string>
+    <string name="nothing_answer">You answered nothing, which is wrong!</string>
+    <string name="right_answer">That\'s right!</string>
+    <string name="game_end">That\'s the end of the game!</string>
+
+    <!-- Questions -->
+    <string name="question1">Who directed Reservoir Dogs?</string>
+        <string name="question1_alt1">Steven Speilberg</string>
+        <string name="question1_alt2">Quentin Tarantino</string>
+        <string name="question1_alt3">Guy Ritchie</string>
+        <string name="question1_alt4">Brian Helgeland</string>
+        <string name="question1_answer">2</string>
+        <string name="question1_type">radio</string>
+
+    <string name="question2">Which actor/actress has won most academy awards?</string>
+        <string name="question2_alt1">Jack Nicholson</string>
+        <string name="question2_alt2">Katharine Hepburn</string>
+        <string name="question2_alt3">Meryl Streep</string>
+        <string name="question2_alt4">Daniel Day Lewis</string>
+        <string name="question2_answer">2</string>
+        <string name="question2_type">radio</string>
+
+    <string name="question3">Who played Forrest Gump?</string>
+        <string name="question3_answer">Tom Hanks</string>
+        <string name="question3_type">text</string>
+
+    <string name="question4">What year was Sin City released?</string>
+        <string name="question4_alt1">2001</string>
+        <string name="question4_alt2">2004</string>
+        <string name="question4_alt3">2005</string>
+        <string name="question4_alt4">2008</string>
+        <string name="question4_answer">3</string>
+        <string name="question4_type">radio</string>
+
+    <string name="question5">Which was Stanley Kubrick\'s last movie?</string>
+        <string name="question5_alt1">Full Metal Jacket</string>
+        <string name="question5_alt2">Eyes Wide Shut</string>
+        <string name="question5_alt3">A.I.</string>
+        <string name="question5_alt4">Lolita</string>
+        <string name="question5_answer">2</string>
+        <string name="question5_type">radio</string>
+
+    <string name="question6">Who is the main character in Raiders of the Lost Ark?</string>
+        <string name="question6_alt1">Indiana Jones</string>
+        <string name="question6_alt2">James Bond</string>
+        <string name="question6_alt3">Superman</string>
+        <string name="question6_alt4">Han Solo</string>
+        <string name="question6_answer">1</string>
+        <string name="question6_type">radio</string>
+
+    <string name="question7">Which of these movies has won 11 oscars?</string>
+        <string name="question7_alt1">Titanic</string>
+        <string name="question7_alt2">La La Land</string>
+        <string name="question7_alt3">Ben Hur</string>
+        <string name="question7_alt4">The Return of the King</string>
+        <string name="question7_answer">1011</string>
+        <string name="question7_type">check</string>
+
+    <string name="question8">Ryan Reynolds has played two different versions of this superhero</string>
+        <string name="question8_alt1">Deadpool</string>
+        <string name="question8_alt2">Green Lantern</string>
+        <string name="question8_alt3">Batman</string>
+        <string name="question8_alt4">The Human Torch</string>
+        <string name="question8_answer">1</string>
+        <string name="question8_type">radio</string>
+
+    <string name="question9">Who played James Bond in The Spy Who Loved Me?</string>
+        <string name="question9_alt1">Pierce Brosnan</string>
+        <string name="question9_alt2">George Lazenby</string>
+        <string name="question9_alt3">Sean Connery</string>
+        <string name="question9_alt4">Roger Moore</string>
+        <string name="question9_answer">4</string>
+        <string name="question9_type">radio</string>
+
+    <string name="question10">Who made Citizen Kane?</string>
+        <string name="question10_alt1">Stanley Kubrick</string>
+        <string name="question10_alt2">Orson Welles</string>
+        <string name="question10_alt3">Michael Curtiz</string>
+        <string name="question10_alt4">Alfred Hitchcock</string>
+        <string name="question10_answer">2</string>
+        <string name="question10_type">radio</string>
+
+</resources>

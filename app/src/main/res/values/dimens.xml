@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <dimen name="initial_rotation">5</dimen>
+    <dimen name="logo_text">48sp</dimen>
+    <dimen name="score_margin_bottom">24dp</dimen>
+    <dimen name="score_text">24sp</dimen>
+    <dimen name="button_height">48dp</dimen>
+
+    <!-- Portrait mode values -->
+    <dimen name="border_top_margin">48dp</dimen>
+    <dimen name="border_width">305dp</dimen>
+    <dimen name="border_height">455dp</dimen>
+    <dimen name="card_top_margin">8dp</dimen>
+    <dimen name="card_width">300dp</dimen>
+    <dimen name="card_heigth">450dp</dimen>
+    <dimen name="card_padding">16dp</dimen>
+    <dimen name="logo_bottom_margin">24dp</dimen>
+    <dimen name="question_text">24sp</dimen>
+
+    <!-- Landscape mode values -->
+    <dimen name="land_border_top_margin">32dp</dimen>
+    <dimen name="land_border_width">455dp</dimen>
+    <dimen name="land_border_height">290dp</dimen>
+    <dimen name="land_card_top_margin">34dp</dimen>
+    <dimen name="land_card_width">450dp</dimen>
+    <dimen name="land_card_height">300dp</dimen>
+    <dimen name="land_card_padding">8dp</dimen>
+    <dimen name="land_logo_bottom_margin">8dp</dimen>
+    <dimen name="land_question_text">18sp</dimen>
+    <dimen name="land_question_margin_bottom">8dp</dimen>
+
+    <!-- Checkboxes.xml, Radiobuttons.xml -->
+    <dimen name="alternatives_botom_margins">8dp</dimen>
+    <dimen name="alternatives_text">16sp</dimen>
+
+    <!-- Textfield.xml -->
+    <dimen name="textfield_text">16sp</dimen>
+    <dimen name="textfield_margin_x">32dp</dimen>
+    <dimen name="textfield_button_margin_right">16dp</dimen>
+
+    <!-- End.xml -->
+    <dimen name="end_margins">32dp</dimen>
+    <dimen name="end_logo_margin_bottom">24dp</dimen>
+    <dimen name="end_text_margin_bottom">16dp</dimen>
+    <dimen name="end_text">24sp</dimen>
+    <dimen name="end_result_margin_bottom">16dp</dimen>
+    <dimen name="end_result_text">48sp</dimen>
+
+    <!-- sTART.XML -->
+    <dimen name="welcome_text">48sp</dimen>
+    <dimen name="welcome_bottom_margin">8dp</dimen>
+    <dimen name="start_logo_margin_bottom">16dp</dimen>
+    <dimen name="tagline_text">24sp</dimen>
+    <dimen name="tagline_margin_bottom">32dp</dimen>
+</resources>

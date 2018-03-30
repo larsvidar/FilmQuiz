@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/checkboxes"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="no.larsvidar.quizshow.MainActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:orientation="vertical">
+
+        <CheckBox
+            android:id="@+id/check1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/alternatives_botom_margins"
+            android:textSize="@dimen/alternatives_text" />
+
+        <CheckBox
+            android:id="@+id/check2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/alternatives_botom_margins"
+            android:textSize="@dimen/alternatives_text" />
+
+        <CheckBox
+            android:id="@+id/check3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/alternatives_botom_margins"
+            android:textSize="@dimen/alternatives_text" />
+
+        <CheckBox
+            android:id="@+id/check4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/alternatives_botom_margins"
+            android:textSize="@dimen/alternatives_text" />
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/button_height"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:onClick="submitCheckAnswer"
+        android:text="@string/submit_button"
+        android:textSize="@dimen/alternatives_text" />
+
+</RelativeLayout>
