@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
-    <dimen name="initial_rotation">5</dimen>
     <dimen name="logo_text">48sp</dimen>
     <dimen name="score_margin_bottom">24dp</dimen>
     <dimen name="score_text">24sp</dimen>
