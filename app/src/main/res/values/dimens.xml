@@ -8,9 +8,6 @@
     <dimen name="button_height">48dp</dimen>
 
     <!-- Portrait mode values -->
-    <dimen name="border_top_margin">48dp</dimen>
-    <dimen name="border_width">305dp</dimen>
-    <dimen name="border_height">455dp</dimen>
     <dimen name="card_top_margin">8dp</dimen>
     <dimen name="card_width">300dp</dimen>
     <dimen name="card_heigth">450dp</dimen>
@@ -19,9 +16,6 @@
     <dimen name="question_text">24sp</dimen>
 
     <!-- Landscape mode values -->
-    <dimen name="land_border_top_margin">32dp</dimen>
-    <dimen name="land_border_width">455dp</dimen>
-    <dimen name="land_border_height">290dp</dimen>
     <dimen name="land_card_top_margin">34dp</dimen>
     <dimen name="land_card_width">450dp</dimen>
     <dimen name="land_card_height">300dp</dimen>

@@ -61,10 +61,10 @@
     <string name="question6_type">radio</string>
 
     <string name="question7">Hvilke av disse filmene har vunnet 11 Oscar?</string>
-    <string name="question7_alt1">Titanic</string>
+    <string name="question7_alt1">The Return of the King</string>
     <string name="question7_alt2">La La Land</string>
     <string name="question7_alt3">Ben Hur</string>
-    <string name="question7_alt4">The Return of the King</string>
+    <string name="question7_alt4">Titanic</string>
     <string name="question7_answer">1011</string>
     <string name="question7_type">check</string>
 

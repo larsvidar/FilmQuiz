@@ -14,7 +14,6 @@ import android.widget.RadioGroup;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
-import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -37,7 +36,6 @@ public class MainActivity extends AppCompatActivity {
     private RelativeLayout checkBoxLayout;              //Variable for the Relativelayout with the answer alternatives for checkbox questions.
     private RelativeLayout radioButtonLayout;           //Variable for the Relativelayout with the answer alternatives for radio button questions.
     private RelativeLayout wholeCard;                   //Variable for the whole card view (for rotation).
-    private MediaPlayer flip = new MediaPlayer();       //Mediaplayer for playing flip-sound.
 
 
     /**
@@ -99,8 +97,6 @@ public class MainActivity extends AppCompatActivity {
         loadViews();
         hideView(endLayout);
 
-        //Loading sound of flipping card.
-        flip = MediaPlayer.create(this, R.raw.papercardflip);
         //Populate questions array.
         questions = getQuestions();
         //Initializing score.

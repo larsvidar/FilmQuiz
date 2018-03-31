@@ -61,7 +61,7 @@
         android:fontFamily="sans-serif-light"
         android:layout_marginBottom="@dimen/score_margin_bottom"
         android:text="@string/current_score"
-        android:textColor="@color/textColorLight"
+        android:textColor="@color/textColorDark"
         android:textSize="@dimen/score_text" />
 
 
